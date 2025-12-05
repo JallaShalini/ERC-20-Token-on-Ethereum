@@ -1,4 +1,4 @@
-
+This section explains the complete workflow for compiling, deploying, and interacting with the ERC-20 token on the Remix virtual blockchain. Remix provides a convenient in-browser environment to compile Solidity code and test smart contract behavior without connecting to a real blockchain network.
 ---
 
 ### 🔧 1. Open Remix and Prepare the Workspace
